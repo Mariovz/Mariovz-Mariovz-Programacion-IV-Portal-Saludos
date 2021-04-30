@@ -24,7 +24,7 @@ PyDispatcher==2.0.5
 PyJWT==1.7.1
 python-dateutil==2.8.1
 requests==2.23.0
-rsa==4.0
+rsa==4.7
 six==1.14.0
 stormpath==2.4.4
 urllib3==1.25.8
