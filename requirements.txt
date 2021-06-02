@@ -27,6 +27,6 @@ requests==2.23.0
 rsa==4.0
 six==1.14.0
 stormpath==2.4.4
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==1.0.0
 WTForms==2.2.1
